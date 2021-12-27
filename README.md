@@ -15,7 +15,6 @@ A tweaked reference for keeping the peace while playing White Elephant (otherwis
 
 * A present can only be stolen once per turn, which means players who have a gift stolen from them have to wait to get it back.
 * After three swaps, the turn automatically comes to an end (otherwise things could drag on for a long time).
-* See “Popular Variations” below for other possible twists.
 
 ## Credit
 
