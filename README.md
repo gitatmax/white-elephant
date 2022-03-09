@@ -21,6 +21,7 @@ A tweaked reference for keeping the peace while playing White Elephant (otherwis
 Sources collected from the following sources & this repository's [contributors](https://github.com/gitatmax/white-elephant-rules/graphs/contributors).
 
 * [whiteelephantrules.com](whiteelephantrules.com)
+* [White elephant gift exchange - Wikipedia](https://en.wikipedia.org/wiki/White_elephant_gift_exchange)
 
 ## Contribute
 
