@@ -1,28 +1,48 @@
 # White Elephant Rules
 
-A tweaked reference for keeping the peace while playing White Elephant (otherwise known as Yankee Swap, Dirty Santa, among other names).
+A streamlined guide to keep the White Elephant gift exchange fun and fair. (Also known as Yankee Swap, Dirty Santa, and other names.)
 
 ## Rules
 
-1. Each player contributes a single wrapped gift of a $15 value to a shared pool
-2. Each player will draw a number to determine what order they will play
-3. Players encircle the shared gift pool
-4. The first to play (number 1) selects, opens & shares for all to see a gift from the pool
-5. The remaining players can choose between picking an unwrapped gift from the pool or stealing a previous player's gift. Anyone who gets their gift stolen can do the same but must steal from someone else.
-6. After all players have had a turn, the first player gets a chance to swap the gift he or she is holding for any other opened gift. Anyone whose gift is stolen may steal from someone else (as long as that person hasn’t been stolen from yet). When someone declines to steal a gift, the game comes to an end. Note that for this last “extra” turn, the three-swap rule doesn’t apply. Players can keep swapping until someone decides to stand pat, or there are no other eligible people to steal from.
+1. **Gift Contribution**:  
+   Each player brings a single wrapped gift worth approximately $15 to the pool.  
+
+2. **Drawing Numbers**:  
+   Players draw numbers to determine the play order.  
+
+3. **Setup**:  
+   Players sit in a circle around the shared gift pool.  
+
+4. **First Turn**:  
+   - Player 1 selects, unwraps, and displays a gift from the pool.  
+
+5. **Subsequent Turns**:  
+   - Each player chooses to:
+     - **Pick** an unwrapped gift from the pool, or  
+     - **Steal** a previously opened gift.  
+   - If your gift is stolen, you must:
+     - Choose another unwrapped gift or steal from another player (but not the one who just stole from you).  
+
+6. **Final Turn**:  
+   - After all players have taken a turn, Player 1 gets a bonus turn:  
+     - They may swap the gift they hold with any opened gift.  
+     - If their gift is stolen, the same stealing rules apply.  
+   - The game ends when a player declines to steal or no eligible steals remain.  
+
+   > **Note**: The usual three-swap limit doesn’t apply during the final turn, allowing unlimited swaps until a player decides to "stand pat."
 
 ## Tips
 
-* A present can only be stolen once per turn, which means players who have a gift stolen from them have to wait to get it back.
-* After three swaps, the turn automatically comes to an end (otherwise things could drag on for a long time).
+- A gift can only be stolen **once per turn**.  
+- Each turn ends after **three swaps** to keep the game moving.
 
 ## Credit
 
-Sources collected from the following sources & this repository's [contributors](https://github.com/gitatmax/white-elephant-rules/graphs/contributors).
-
-* [whiteelephantrules.com](whiteelephantrules.com)
-* [White elephant gift exchange - Wikipedia](https://en.wikipedia.org/wiki/White_elephant_gift_exchange)
+Inspired by:  
+- [whiteelephantrules.com](http://whiteelephantrules.com)  
+- [White Elephant Gift Exchange - Wikipedia](https://en.wikipedia.org/wiki/White_elephant_gift_exchange)  
+- Contributions from this [repository's contributors](https://github.com/gitatmax/white-elephant-rules/graphs/contributors).
 
 ## Contribute
 
-Issues & pull requests welcome!
+Issues and pull requests are welcome!  
